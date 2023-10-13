@@ -1,4 +1,5 @@
 # AI-PHASE-1
+Hi I'm BALASINGAM. T
 Config files for my GitHub profile.
 Creating a README for a Market Basket Analysis project on GitHub is a great way to explain your project's purpose, usage, and how others can contribute or use your code. Below is a sample README for a Market Basket Analysis project:
 
